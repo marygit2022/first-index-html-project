@@ -1,9 +1,9 @@
-<Maryam Nasab>
+<!DOCTYPE html>
 <html>
 <head>
     <title>My First Project</title>
 </head>
 <body>
-    <h1>Hello World! This is my first GitHub Pages site.</h1>
+    <h1>Hello GitHub Pages!</h1>
 </body>
 </html>
