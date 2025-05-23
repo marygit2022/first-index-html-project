@@ -8,12 +8,10 @@
 </head>
 <body>
     <header class="header">
-        <h1>Maryam Nasab/h1>
+        <h1>Maryam Nasab>
     </header>
 
-    <main>
-        <section class="about">
-            <h2>About me</h2>
+
 I'm passionate about web development and learning new technologies. This page demonstrates my skill in Git.       </section>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/font.css">
 body {
