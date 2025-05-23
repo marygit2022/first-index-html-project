@@ -23,6 +23,24 @@
         font-size: 2.5em;
     }
     h2 {
+<body>
+    <header>
+        <h1>Maryam Nasab</h1>
+
+    <div class="section">
+        <h2>📌 About me</h2>
+        <p>"I love web development, exploring new tech, and working in teams. This page is a quick demo of Git ability!"
+
+.</p>
+
+        <ul>
+            <li><strong>Frontend:</strong> HTML, CSS, JavaScript (مقدماتی)</li>
+            <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
+        </ul>
+    </div>
+
+
+</body>
         color: var(--primary-color);
         border-left: 4px solid var(--primary-color);
         padding-left: 10px;
