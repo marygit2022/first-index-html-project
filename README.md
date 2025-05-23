@@ -14,6 +14,8 @@
     <main>
         <section class="about">
             <h2>About me</h2>
-I'm passionate about web development and learning new technologies. This page demonstrates my skills in HTML/CSS and Git.       </section>
+I'm passionate about web development and learning new technologies. This page demonstrates my skill in Git.       </section>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/font.css">
+
 
       
