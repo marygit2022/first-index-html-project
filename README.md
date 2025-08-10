@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My First Project</title>
-</head>
-<body>
-    <h1>Hello GitHub Pages!</h1>
-</body>
-</html>
 
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -128,3 +118,4 @@ protocols/PCR_protocol.md</pre>
   </div>
 </body>
 </html>
+
